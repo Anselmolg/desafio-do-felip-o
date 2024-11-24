@@ -1,1 +1,2 @@
-qualquer coisa kkkk
+let nome = "qualquer coisa kkkk";
+console.log (nome)
